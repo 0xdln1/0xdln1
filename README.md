@@ -33,3 +33,5 @@ func main(){
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=0xdln1&show_icons=true&theme=radical" width="50%" style=" text-align: center;">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayanth353&hide=scss,less&theme=radical)](https://github.com/jayanth353/github-readme-stats)
