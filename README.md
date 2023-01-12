@@ -29,7 +29,9 @@ func main(){
 [![](https://img.shields.io/twitter/follow/0xdln?color=gray&logo=twitter&label=%400xdln&style=flat)](https://twitter.com/0xdln)
 [![](https://img.shields.io/github/followers/0xdln1?color=gray&label=%400xdln1&logo=GitHub)](https://github.com/0xdln1)
 [![](https://img.shields.io/github/stars/0xdln1?color=gray&logo=GitHub)](https://github.com/0xdln1)
+[![](https://img.shields.io/badge/-intigriti-white?logo=intigriti&color=gray&style=flat)](https://app.intigriti.com/profile/0xdln)
 [![](https://img.shields.io/badge/-hackerone-black?logo=hackerone&color=gray&style=flat)](https://hackerone.com/0xdln)
+[![](https://img.shields.io/badge/-bugcrowd-white?logo=bugcrowd&color=gray&style=flat)](https://bugcrowd.com/0xdln)
 <br>
 <br>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0xdln1&show_icons=true&theme=dark" width="50%" style=" text-align: center;">
