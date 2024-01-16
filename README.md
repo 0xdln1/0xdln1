@@ -1,5 +1,5 @@
 <h2> Hello World, I am 0xdln! </h2>
-<p><em>Part Time BugBounty Hunter and a wannabe hacker <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
+<p><em>Full Time BugBounty Hunter and a wannabe hacker <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
 I like doing various things related to hacking. I do part time bugbounty hunting and i am a Computer Science Student. If you have any other questions please feel free to contact me <a href="http://twitter.com/0xdln">@0xdln</h1></a>
 </em></p>
 
