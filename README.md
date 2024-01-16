@@ -17,7 +17,7 @@ type Me struct{
 
 func main(){
    me := &Me{
-     Job: "Part Time Bug Bounty Hunter and Computer Science Student.",
+     Job: "Full Time Bug Bounty Hunter",
      Pronouns: "He/Him",
      Code: "Python,Bash,Golang and Everything",
      BestAndFavoriteSkill: "Web Hacking :D"
